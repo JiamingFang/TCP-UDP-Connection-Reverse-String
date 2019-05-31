@@ -3,8 +3,8 @@ two files:
 client.py
 server.py
 
-run server script, it takes one argument which is request code:
-./server.sh <req_code>
+run server.py, it takes one argument which is request code:
+./server.py <req_code>
 
-run client script, it takes four arguments which are:
-./client.sh <server address> <n_port> <req_code> <string>
+run client.py, it takes four arguments which are:
+./client.py <server address> <n_port> <req_code> <string>
